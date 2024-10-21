@@ -26,6 +26,14 @@ h2 {
     border-top: 4px solid rgb(101, 216, 181);
 }
 
+@media only screen and (max-width: 1000px){
+    .content {
+        margin: 0;
+        padding: 5% 5%;
+        height: 100vh;
+    }
+}
+
 .content p {
     text-align: justify;
     margin-block: 2%;
