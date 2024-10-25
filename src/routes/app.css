@@ -1,6 +1,6 @@
 .app{
-    height:100vh;
-    background-color:white;
+    height:100%;
+    background-color: rgb(233, 233, 233);
     font-family: "Libre Franklin", sans-serif;
 }
 
@@ -19,11 +19,11 @@ h2 {
 }
 
 .content {
-    background-color: rgb(233, 233, 233);
     border-radius: 3px;
     margin: 5% 30%;
     padding: .5% 1%;
     border-top: 4px solid rgb(101, 216, 181);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 @media only screen and (max-width: 1000px){
