@@ -1,9 +1,23 @@
 # LogBook
 
 For the next 6 months, I'll be logging my advancements every day in this logbook.  
-Its content may be utterly random, but its goal is for me to have a record of my research and for you, readers, to have an insight into what I am working on and any interesting findings I may come upon. Although for now very basic, this logbook will evolve throughout my stay to someday look more decent.
+Its content may be utterly random, but its goal is for me to have a record of my research and for anyone to have an insight into what I am working on and any interesting findings I may come upon. Although for now very basic, this logbook will evolve throughout my stay to someday look more decent.
 
-**My subject will be revolving around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
+**My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
+
+## Thu. 10-24-2024
+
+Add a meeting that further extended the reach of my project. As the lab I am currently working in mainly revolves around [Civic Tech](https://en.wikipedia.org/wiki/Civic_technology). One of my supervisor suggested that I could use the data of my research to provide fact-based checking for public debate / deliberation. This could prove very interesting !!
+
+## Wed. 10-23-2024
+
+Found a gold mine for ground-truth forest dataset. This will be of immense help and also will make me consider new possibilites.
+[Awesome forests](https://github.com/blutjens/awesome-forests?tab=readme-ov-file)
+
+Also gave the presentation, which went pretty smootly ! I relied a lot on my script for the japanese part but I am still pretty proud. One of my colleague also gave me information about datasets provided as open-data by the government of Japan. I should look into it.
+- [Geospatial data](https://www.geospatial.jp/ckan/organization/rinya)
+- [Forest open data](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A45.html)
+
 
 ## Tue. 10-22-2024
 
