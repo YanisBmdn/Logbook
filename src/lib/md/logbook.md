@@ -5,9 +5,17 @@ Its content may be utterly random, but its goal is for me to have a record of my
 
 **My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
 
+## Mon. 10-28-2024
+
+- &#9744; Setup a schedule for the next 6 months
+- &#9744; Redefine my subject based on last Thursday's feedback
+- &#9744; Concretly define ground-truth data
+
 ## Thu. 10-24-2024
 
-Add a meeting that further extended the reach of my project. As the lab I am currently working in mainly revolves around [Civic Tech](https://en.wikipedia.org/wiki/Civic_technology). One of my supervisor suggested that I could use the data of my research to provide fact-based checking for public debate / deliberation. This could prove very interesting !!
+Had a meeting that further extended the reach of my project. As the lab I am currently working in mainly revolves around [Civic Tech](https://en.wikipedia.org/wiki/Civic_technology). One of my supervisor suggested that I could use the data of my research to provide fact-based checking for public debate / deliberation. This could prove very interesting !!
+
+I'll look deeper into it. I think time as come to set a schedule up.
 
 ## Wed. 10-23-2024
 
