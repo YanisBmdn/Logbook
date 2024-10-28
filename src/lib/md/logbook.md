@@ -7,9 +7,16 @@ Its content may be utterly random, but its goal is for me to have a record of my
 
 ## Mon. 10-28-2024
 
-- &#9744; Setup a schedule for the next 6 months
+- &#9745; Setup a schedule for the next 6 months
 - &#9744; Redefine my subject based on last Thursday's feedback
 - &#9744; Concretly define ground-truth data
+
+Defined my schedule for the next 5 months (1 month has already passed...). Waiting for my supervisor feedback on it.
+![Schedule](/images/1028-Schedule.webp)
+
+Meanwhile, I tried redefining my subject more to lean towards Civic Tech. I have multiple ideas of outcomes for the research but it's very hard to define a limit. For the moment, I want to build my own AI Model on different data sources (multispectral, RGB). I have found [Canopy height data](https://langnico.github.io/globalcanopyheight/) but the fact that there is only a single point in time makes it hard to utilize it for tree evolution...
+
+I have thought about leveraging LLMs (RAG + Function calling) as an interface for the data of this research. On top of probable open-data !
 
 ## Thu. 10-24-2024
 
