@@ -5,10 +5,15 @@ Its content may be utterly random, but its goal is for me to have a record of my
 
 **My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
 
+## Tue. 10-29-2024
+
+- &#9744; Define clearly what my research covers (what will I do / I won't do)
+- &#9744; Start saving ground-truth data for model training 
+
 ## Mon. 10-28-2024
 
 - &#9745; Setup a schedule for the next 6 months
-- &#9744; Redefine my subject based on last Thursday's feedback
+- &#9745; Redefine my subject based on last Thursday's feedback
 - &#9744; Concretly define ground-truth data
 
 Defined my schedule for the next 5 months (1 month has already passed...). Waiting for my supervisor feedback on it.
