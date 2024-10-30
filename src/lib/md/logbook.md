@@ -5,10 +5,25 @@ Its content may be utterly random, but its goal is for me to have a record of my
 
 **My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
 
+## Wed. 10-30-2024
+
+- &#9745; Prepare seminar + weekly report
+- &#9744; Define which data sources will be used
+
 ## Tue. 10-29-2024
 
-- &#9744; Define clearly what my research covers (what will I do / I won't do)
+- &#9745; Define clearly what my research covers (what will I do / I won't do)
 - &#9744; Start saving ground-truth data for model training 
+
+I have actually been searching for good **spatial resolution** LIDAR / SAR imagery, to get the elevation of tree canopy for segmentation. I have found [one project](https://gee-community-catalog.org/projects/meta_trees/#dataset-citation) but it's on a singular point in time, so I must consider using this kind of data or not.
+
+I haven't talked about what **spatial resolution** is, so let me showcase it with an example :
+
+- Google maps basically has some very good spatial resolution here we probably something close to **20cm per pixel** (depends on where you look, has it creates a mosaic of many different imageries)
+![Google maps satellite imagery](/images/1030-satellite1.webp)
+
+- Sentinel has lower resolution, for its RGB bands at **10m per pixel**
+![Sentinel 2 RGB satellite imagery](/images/1030-satellite2.webp)
 
 ## Mon. 10-28-2024
 
