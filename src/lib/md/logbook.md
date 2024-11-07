@@ -3,7 +3,46 @@
 For the next 6 months, I'll be logging my advancements every day in this logbook.  
 Its content may be utterly random, but its goal is for me to have a record of my research and for anyone to have an insight into what I am working on and any interesting findings I may come upon. Although for now very basic, this logbook will evolve throughout my stay to someday look more decent.
 
-**My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).**
+~~My subject revolves around finding a way to combine multi-source satellite imagery to provide an accurate way to classify tree-specific species (whether in urban areas or high-density forests).~~
+
+**My current subject is : Conversational Agent Fact-Based Environmental Discussion based on Data Visualization"**
+
+
+## Thu. 11-07-2024
+
+Today's goals are : 
+- &#9744; Define the metrics / visualization that will be used.
+- &#9744; Further define MVP and how the system will work
+
+## Wed. 11-06-2024
+
+Defined a schedule, and use cases for the research.
+Main use cases will be : 
+- Education & Information
+- Urban planning support
+- Research tool
+
+Questions that could be asked to the agent could be : 
+- “How has vegetation coverage changed in Nagoya Atsuta-ku over the last 10 years?”
+- "What local environmental examples can I use to teach about climate change?"
+- "Which neighborhoods have the lowest tree coverage and highest summer temperatures?"
+- "Generate time series analysis of vegetation health in Aichi prefecture protected area"
+
+Also had a weekly seminar, where my supervisor suggested to use audio based interface. I originally intended to have a chat based interface, but this
+could be very interesting ! I could provide in parallel a web, conversational interface for a broader use. But I think I'll stick with the audio one
+for the moment.
+
+## Tues. 11-05-2024
+
+After a lot of searches and a meeting with supervisors I decided to slightly shift my theme. Training a model is quite complicated, 
+could take time and I think it's not fit to a 6 month research plan. This change was suggested by my supervisor and I'll go with it ! Thus, my new theme is :
+
+> **Conversational Agent Fact-Based Environmental Discussion based on Data Visualization**
+
+This research project aims to create a conversational LLM based agent that provides information on environmental policies and urban planning decisions while also integrating relevant data visualizations to enhance understanding and facilitate fact-based discussions.
+
+The topic change doesn't make my prior searches and documentation obsolete, as I'll probably use satellite imagery nonetheless !!
+
 
 ## Wed. 10-30-2024
 
